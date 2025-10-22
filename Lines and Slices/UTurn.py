@@ -1,0 +1,5 @@
+line = input()
+first = int(input())
+second = int(input())
+step = -int(input())
+print(line[first:second:step])
